@@ -11,6 +11,7 @@ body {
   min-height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
+  background-position: bottom;
   padding-left: 30px;
   padding-right: 30px;
 }
