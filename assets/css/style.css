@@ -14,16 +14,15 @@ body {
   background-position: bottom;
   padding-left: 30px;
   padding-right: 30px;
+  text-align: center;
 }
 .wellcom-title {
-  text-align: center;
   font-family: 'Roboto', sans-serif;
   font-size: 60px;
   font-weight: 700;
   color:#926239;
 }
 .welcom-text {
-  text-align: center;
   font-size: 20px;
   font-weight: 400;
   color:#926239;
@@ -40,7 +39,6 @@ body {
   text-decoration: none;
   text-align: center;
   width: 150px;
-  margin-left: 45%;
 }
 .link-btn:hover {
   background-color: #926239;
